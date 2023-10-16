@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juanchi3620
 - 👀 I’m interested in Work in a team and learn.
-- 🌱 I’m currently learning React and Git
-- 💞️ I’m looking to collaborate on frontend design with react 
+- 🌱 I’m currently learning Springboot and Git
+- 💞️ I’m looking to collaborate on Backend with Java and Springboot 
 - 📫 How to reach me francovargasjuandario@gmail.com
 
 <!---
