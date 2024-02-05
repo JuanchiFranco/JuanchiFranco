@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juanchi3620
+- 👋 Hi, I’m @JuanchiFranco
 - 👀 I’m interested in Work in a team and learn.
 - 🌱 I’m currently learning Springboot and Git
 - 💞️ I’m looking to collaborate on Backend with Java and Springboot 
