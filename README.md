@@ -22,7 +22,7 @@ Siempre estoy abierto a colaborar en proyectos emocionantes o resolver desafíos
 
 ## 📬 Contacto
 
-¿Quieres trabajar juntos o simplemente saludar? ¡Estoy aquí para ayudarte! Puedes encontrarme en:
+¿Quieres que trabajemos juntos o simplemente saludar? ¡Estoy aquí para ayudarte! Puedes encontrarme en:
 
 - Email: 📧 [francovargasjuandario@gmail.com](mailto:francovargasjuandario@gmail.com)
 - LinkedIn: 🔗 [linkedin.com/in/juan-darío-franco-vargas](https://www.linkedin.com/in/juan-dar%C3%ADo-franco-vargas-18906822b/)
