@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **francovargasjuandario@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WqeswfdZ6s1ZDPj9UWJ6nfuYjn3ziZlP/view?usp=sharing](https://drive.google.com/file/d/1WqeswfdZ6s1ZDPj9UWJ6nfuYjn3ziZlP/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1GuCw6bji6FNf1h0UjUlVfgcwvAGI5AsZ/view?usp=sharing)
 
 - ⚡ Fun fact **I like soccer and watching anime, One Piece my favorite🏴‍☠️.**
 
