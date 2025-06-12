@@ -13,7 +13,7 @@
 
 - 📫 Puedes contactarme en **francovargasjuandario@gmail.com**
 
-- 📄 Conoce más sobre mi experiencia en [mi currículum](https://drive.google.com/file/d/1GuCw6bji6FNf1h0UjUlVfgcwvAGI5AsZ/view?usp=sharing)
+- 📄 Conoce más sobre mi experiencia en [mi currículum](https://drive.google.com/file/d/1jiFvJrLDtXiMhiHQwld0TPbCG658kaQt/view?usp=sharing)
 
 - ⚡ Dato curioso: **Me gusta el fútbol y ver anime, One Piece es mi favorito🏴‍☠️.**
 
