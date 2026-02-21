@@ -92,16 +92,6 @@ Soy un **desarrollador Backend** apasionado por construir APIs robustas, escalab
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-[![Shop-Amiduciel](https://github-readme-stats.vercel.app/api/pin/?username=juanchifranco&repo=Shop-Amiduciel&theme=tokyonight&hide_border=true)](https://github.com/JuanchiFranco/Shop-Amiduciel)
-
-</div>
-
----
-
 <div align="center">
 
 *"El código limpio no es solo funcional — es una forma de arte."* ✨
