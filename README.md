@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/juan-dar%c3%ado-franco-vargas-18906822b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-delta-umber-72.vercel.app/" target="_blank">
+  <a href="https://juan-franco-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:francovargasjuandario@gmail.com">
