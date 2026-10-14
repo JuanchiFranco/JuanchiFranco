@@ -69,8 +69,12 @@ Soy un **desarrollador Backend** apasionado por construir APIs robustas, escalab
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanchifranco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchifranco&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=juanchifranco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
+</a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=juanchifranco&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
+</a>
 
 </div>
 
