@@ -90,7 +90,7 @@ Soy un **desarrollador Backend** apasionado por construir APIs robustas, escalab
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juanchifranco&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=juanchifranco&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
