@@ -32,7 +32,7 @@
 
 Soy un **desarrollador Backend** apasionado por construir APIs robustas, escalables y bien diseñadas. Resido en Colombia y tengo ganas de crecer y aportar en equipos técnicos desafiantes.
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🔭 Ahora mismo</h4>
@@ -58,9 +58,9 @@ Soy un **desarrollador Backend** apasionado por construir APIs robustas, escalab
 
 ## 🛠️ Stack Tecnológico
 
-<table>
+<table width="100%">
   <tr>
-    <td width="170"><b>⚙️ Backend</b></td>
+    <td><b>⚙️ Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -88,7 +88,7 @@ Soy un **desarrollador Backend** apasionado por construir APIs robustas, escalab
     </td>
   </tr>
   <tr>
-    <td><b>🚢 DevOps y herramientas</b></td>
+    <td><b>🚢 DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
